@@ -1,0 +1,2 @@
+We can attach an ESP32 Camera in place of NodeMCU 8266 so that when someones arroves on the door the camera captures the picture and share it us over any server or telegram application so 
+that the visual is completely verified and there is security is maintained.

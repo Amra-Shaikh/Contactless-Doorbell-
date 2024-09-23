@@ -1,0 +1,12 @@
+Hardware Components:
+Bread Board
+Jump Wires/ connection wires
+Node MCU (ESP-8266)
+Ultra Sonic Sensor
+Buzzer
+Battery (3v cell)
+Resistor
+Relay
+Single button switch
+Solenoid Lock
+Adaptor for Lock 
